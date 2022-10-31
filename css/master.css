@@ -129,8 +129,6 @@ body {
 
 .navbar .links {
   position: relative;
-
-  
 }
 
 .navbar .links .icon {
@@ -182,7 +180,6 @@ body {
 .navbar .links .show {
   display: block !important;
 }
-
 
 .navbar .links ul li a {
   display: block;
@@ -247,7 +244,6 @@ body {
 
 .landing .intro-text .quote span {
   display: block;
-
 }
 
 .landing .intro-text .quote span:first-of-type {
@@ -329,14 +325,13 @@ body {
   margin-bottom: 30px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .services-content .srv {
     flex-direction: column;
     text-align: center;
   }
   .services-content .image {
     display: none;
-    
   }
 }
 
@@ -599,4 +594,3 @@ body {
 }
 
 /* End Footer */
-
