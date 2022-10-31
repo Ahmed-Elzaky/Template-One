@@ -35,7 +35,7 @@ body {
 
 .grid-3 {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 
 .bg-d {
@@ -129,6 +129,8 @@ body {
 
 .navbar .links {
   position: relative;
+
+  
 }
 
 .navbar .links .icon {
@@ -181,6 +183,7 @@ body {
   display: block !important;
 }
 
+
 .navbar .links ul li a {
   display: block;
   color: #333;
@@ -227,6 +230,8 @@ body {
   font-size: 18px;
   line-height: 1.8;
   margin-top: 40px;
+
+
 }
 
 .landing .intro-text .quote {
@@ -244,6 +249,7 @@ body {
 
 .landing .intro-text .quote span {
   display: block;
+
 }
 
 .landing .intro-text .quote span:first-of-type {
@@ -325,13 +331,14 @@ body {
   margin-bottom: 30px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 575px) {
   .services-content .srv {
     flex-direction: column;
     text-align: center;
   }
   .services-content .image {
     display: none;
+    
   }
 }
 
@@ -594,3 +601,4 @@ body {
 }
 
 /* End Footer */
+
