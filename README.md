@@ -1,7 +1,5 @@
 # Responsive Web Design Template <ins>One</ins>
-
-#### Demo
-
+Demo
 ### https://ahmed-elzaky.github.io/Template-One/
 
-### [Big Thanks to Elzero Web School](https://elzero.org/)
+[Big Thanks to Elzero Web School](https://elzero.org/)
